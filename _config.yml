@@ -12,7 +12,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  Archtec-io
-theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
 # Build settings
 plugins:
   - jekyll-feed
