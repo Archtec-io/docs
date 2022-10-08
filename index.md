@@ -4,6 +4,7 @@ title: Home
 nav_order: 1
 description: "Archtec Docs"
 permalink: /
+last_modified_date: "Sat , 08 Oct 2022 15:33:40 GMT"
 ---
 
 # Archtec documentation.
@@ -18,6 +19,14 @@ Powered by Just-the-docs and Jekyll. Hosted on GitHub.
 
 {: .warning }
 > This documentation is still **work in progress**.
+
+---
+
+## Links
+[Mapserver](http://map.archtec.freemyip.com)
+[Discord](https://discord.gg/txCMTMwBWm)
+[GitHub](https://github.com/Archtec-io)
+[Bugtracker](https://github.com/Archtec-io/bugtracker/issues)
 
 ---
 
