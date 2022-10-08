@@ -13,7 +13,7 @@ last_modified_date: "Sat , 08 Oct 2022 15:40:00 GMT"
 Powered by Just-the-docs and Jekyll. Hosted on GitHub.
 {: .fs-6 .fw-300 }
 
-[Help us](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/Archtec-io/Archtec-io){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Help us](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/Archtec-io/docs){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
