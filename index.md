@@ -37,11 +37,21 @@ Powered by Just-the-docs and Jekyll. Hosted on GitHub.
 
 ## About Archtec
 
-Archtec is &copy; 2021-{{ "now" | date: "%Y" }} by Niklp.
+**Willkommen auf Archtec!**
+Ein brandneuer Minetest-Server, der in Deutschland gehostet wird. Wir sind ein kleines verrücktes Team, bestehend aus:
+Nik (Admin, Programmierer)
+Homer (Moderator, technikbegeistert)
+Lonny (Moderatorin, naturbegeistert)
+Juri (erfahrener Admin, MT-Serverbesitzer)
+Wir sprechen Deutsch und Englisch, legen viel Wert auf gutes Benehmen, und haben das Herz an der richtigen Stelle. 
+Auf Archtec stehen Euch viele Türen offen - egal, ob Ihr Technikfreaks seid, leidenschaftlich gern baut, auf Entdeckungsreise gehen wollt, ob Ihr jung oder "alt" seid (man ist immer so alt, wie man sich fühlt, lol) oder einfach als Beschäftigungstherapie Blöcke klein hauen wollt - auf Archtec kommt jeder auf seine Kosten. Lasst Eurer Kreativität freien Lauf. Der Lag wird dabei stets gering gehalten. Von süßen Tieren bis hin zu großen Maschinen, lässt Archtec keine Wünsche offen. Wir sind sehr entspannt und freundlich. Kommt einfach vorbei und schaut selbst. Wir freuen uns auf Euch!
+*This text was written by LonnySophie*
+
+Todo: add english translation
 
 ### License
 
-This documentation is distributed by an [MIT license](https://en.wikipedia.org/wiki/MIT_License).
+This documentation is distributed by a [MIT license](https://en.wikipedia.org/wiki/MIT_License).
 
 ### Contributing
 
