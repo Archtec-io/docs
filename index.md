@@ -4,7 +4,7 @@ title: Home
 nav_order: 1
 description: "Archtec Docs"
 permalink: /
-last_modified_date: "Sat , 08 Oct 2022 15:40:00 GMT"
+last_modified_date: "Sat , 05 Nov 2022 18:30:00 GMT"
 ---
 
 # Archtec documentation.
@@ -25,8 +25,6 @@ Powered by Just-the-docs and Jekyll. Hosted on GitHub.
 
 ## Links
 
-[Mapserver](http://map.archtec.freemyip.com)
-
 [Discord](https://discord.gg/txCMTMwBWm)
 
 [GitHub](https://github.com/Archtec-io)
@@ -45,6 +43,7 @@ Lonny (Moderatorin, naturbegeistert)
 Juri (erfahrener Admin, MT-Serverbesitzer)
 Wir sprechen Deutsch und Englisch, legen viel Wert auf gutes Benehmen, und haben das Herz an der richtigen Stelle. 
 Auf Archtec stehen Euch viele Türen offen - egal, ob Ihr Technikfreaks seid, leidenschaftlich gern baut, auf Entdeckungsreise gehen wollt, ob Ihr jung oder "alt" seid (man ist immer so alt, wie man sich fühlt, lol) oder einfach als Beschäftigungstherapie Blöcke klein hauen wollt - auf Archtec kommt jeder auf seine Kosten. Lasst Eurer Kreativität freien Lauf. Der Lag wird dabei stets gering gehalten. Von süßen Tieren bis hin zu großen Maschinen, lässt Archtec keine Wünsche offen. Wir sind sehr entspannt und freundlich. Kommt einfach vorbei und schaut selbst. Wir freuen uns auf Euch!
+
 *This text was written by LonnySophie*
 
 Todo: add english translation
