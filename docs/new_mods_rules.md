@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Rules for new mods
-nav_order: 4
+nav_order: 6
 last_modified_date: "Mon , 28 Nov 2022 13:53:00 GMT"
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Changelog
-nav_order: 3
+nav_order: 4
 last_modified_date: "Sun , 17 Nov 2022 12:24:00 GMT"
 ---
 
@@ -265,7 +265,7 @@ Niklp — 19.11.2022 15:26
 - Updated 'tubelib2' (fix translations)
 - Updated 'xdecor' (move changes into archtec mod)
 
-Niklp — 27.11.2022 10:24 Uhr
+Niklp — 27.11.2022 10:24
 - Added some debug tools for performance
 - Updated 'moreores' (fix hoe recipes)
 - Updated 'drawers' (techage support)
@@ -278,3 +278,99 @@ Niklp — 27.11.2022 10:24 Uhr
 - Updated 'bakedclay' (license)
 - Updated 'tubelib2' (chinese translation)
 - Updated 'signs_lib' (fix wrong usage of default global)
+
+Niklp — 02.12.2022 21:40
+- Updated LuaJIT
+- Prematurely pulled '/help' privs fix
+
+LonnySophie — 03.12.2022 17:42
+- Added skinned hands in 1st person
+- Added some more lag values to '/status'
+- Enabled '3d_armor' fire mode
+- Reworked 'notifyTeam' function
+- Updated 'action_queues' (fmod)
+- Updated 'bonemeal' (fix usage)
+- Updated 'chatplus' (localize functions)
+- Updated 'digicolor' (fmod)
+- Updated 'ethereal' (new textures)
+- Updated 'futil' (too much for this changelog)
+- Updated 'mesecons' (translation support)
+- Updated 'smartshop' (fmod, currency)
+- Updated 'mobs_redo' (yaw climbing fix)
+- Updated 'node_entity_queue' (fmod)
+- Updated 'ts_furniture' (ignore 'tree' group)
+
+Niklp — 03.12.2022 17:58
+- Enabled 'cherrytree' mod
+
+Niklp — 04.12.2022 10:27
+- Added 'presents' (thx Juri, good job)
+- Added 'fmod' (new depend of smartshop and digicolor)
+
+Niklp — 08.12.2022 19:11
+- Added 'christmastree'
+- Added 'mymillwork'
+- Added 'castle_storage'
+- Added stairs for 'moreblocks:empty_shelf'
+- Added '3d_armor' upstream changes
+
+Niklp — 09.12.2022 13:55
+- Enabled 'bushed_classic, 'poisonivy'
+- Re-added dates and digital clocks
+- Updated 'christmastree' (fix crafting recipe)
+
+Niklp — 09.12.2022 19:08
+- Added 'cottages' mod
+- Changed some 'telemosaic' settings
+
+Niklp — 13.12.2022 11:18
+- Added '/request_lava' and '/request_areas_high_limit' chatcommands
+- Added some new help messages
+- Added a special 'mymillwork' node (base_)
+- Disabled bed spawn at death
+- Disabled torch damage
+- Updated 'techage' (many fixes)
+- Updated 'mesecons' (unittests)
+- Updated 'xban2' (fix ingame chat message)
+- Updated 'signs_lib' (logging)
+- Updated 'tubelib2' (tube placement)
+- Updated 'chatplus' (logging)
+- Updated 'mobs_npc' (new textures)
+- Updated 'unified_inventory' (farming as opt-depend)
+
+Niklp — 21.12.2022 11:47
+- Added '/spawn_old' and '/s_o'
+- Added '/vote_day' and '/vote_night'
+- Refactored the voting api
+- Improved returns of many chatcommands
+- Block self vote-kicks
+- Fixed not working TA growlight
+- Removed 'mesecons_wireless' and 'claycrafter'
+- Updated 'mobs_redo' (fix userdata crash)
+- Updated 'mesecons' (FPGA metadata fix)
+- Updated 'anvil' (portuguese Brazilian translation)
+- Updated 'smartshop' (currency support)
+- Updated 'itemframes' (mod loaded msg)
+- Updated 'farming' (new textures)
+- Updated 'bakedclay' (better cnc register)
+- Updated 'bonemeal' (small poplar sapling)
+- Updated 'mob_horse' (loaded msg)
+- Updated 'digilines' (fix Z-fighting LCD text)
+
+Niklp — 22.12.2022 12:22
+- Vote automatically 'yes' if you start a vote
+- Updated 'mobs_animal' (fix evil bunny)
+- Updated 'ethereal' (new fish textures)
+- Updated 'dummies' (spawn other players)
+
+Niklp — 22.12.2022 15:10
+- Added 'choppy' mod
+- Updated 'mobs_redo' (userdata crash fix no.2)
+- Removed unused '/memory' command
+
+Niklp — 24.12.22 10:09
+- Added choppy support to more axes
+- Golden apple fills hunger now completely
+- Updated '3d_armor' (Qol)
+- Updated 'ethereal' (new textures)
+- Updated 'mesecons' (removed log message at server startup)
