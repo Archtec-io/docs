@@ -2,7 +2,7 @@
 layout: default
 title: Changelog
 nav_order: 4
-last_modified_date: "Sun , 17 Nov 2022 12:24:00 GMT"
+last_modified_date: "Thu , 29 Dec 2022 20:00:00 GMT"
 ---
 
 {: .warning }
@@ -13,95 +13,95 @@ Niklp — 21.09.2022 15:08
 - Fixed not visible recipes with stairs
 
 Niklp — 22.09.2022 13:46
-- Removed 'nss_helicopter'
-- Added 'streets'
-- Updated 'bees' (ABM speedup)
-- Added 'ts_vehicles'
-- Fixed not working crafting recipes in 'xdecor'
-- Reduced spawn chance of 'sequoia' trees
+- Removed `nss_helicopter`
+- Added `streets`
+- Updated `bees` (ABM speedup)
+- Added `ts_vehicles`
+- Fixed not working crafting recipes in `xdecor`
+- Reduced spawn chance of `sequoia` trees
 - Added jump and speed multiplier to mithril boots
  
 Niklp — 23.09.2022 17:30
 - Fixed crash in forceload restriction
 - Notify staff when a player joins with VPN
-- Updated 'dummies' (fixed undecleared var warnings)
+- Updated `dummies` (fixed undecleared var warnings)
 
 Niklp — 24.09.2022 08:25
-- Fixed crash when digging 'techage:cooler'
+- Fixed crash when digging `techage:cooler`
 - Increased spawn rate of monsters (+50%)
-- Updated 'lcdlib'
-- Updated 'caverealms_lite' (new obsidian glass recipe)
-- Updated 'moretrees'
-- Updated 'moreblocks' (More recipe related fixes)
-- Fixed a crash in 'chatplus'
+- Updated `lcdlib`
+- Updated `caverealms_lite` (new obsidian glass recipe)
+- Updated `moretrees`
+- Updated `moreblocks` (More recipe related fixes)
+- Fixed a crash in `chatplus`
  
 Niklp — 25.09.2022 20:17
 - Decreased max forceload blocks per player to 3
-- Removed unused 'Beech' nodes in 'moretrees'
-- Added 'Dry ice'
+- Removed unused `Beech` nodes in `moretrees`
+- Added `Dry ice`
 
 Niklp — 27.09.2022 20:48
-- Updated 'titanium' (crafting recipes)
-- Override 'digiline:chest'
-- Updated 'ethereal' (spong recipe)
-- Added crafting recipe for 'Dry ice'
+- Updated `titanium` (crafting recipes)
+- Override `digiline:chest`
+- Updated `ethereal` (spong recipe)
+- Added crafting recipe for `Dry ice`
 
 Niklp — 28.09.2022 15:47
 - Updated the server to Minetest 5.6.1 (including MTG)
 - Updated LuaJIT to latest master
-- Updated 'farming'
+- Updated `farming`
 
 Niklp — 29.09.2022 20:04
-- Fixed crash in 'archtec_teleport'
-- Fixed crash in 'pride_flags'
-- Updated 'travelnet'
-- Updated 'mobs_redo'
-- Updated 'mob_horse'
+- Fixed crash in `archtec_teleport`
+- Fixed crash in `pride_flags`
+- Updated `travelnet`
+- Updated `mobs_redo`
+- Updated `mob_horse`
 
 Niklp — 01.10.2022 20:30
-- Give every new player a 'Techage construction board'
+- Give every new player a `Techage construction board`
 - Added cheat logger function
-- Updated 'mobs_monster' (cleanup)
-- Updated 'mobs_animal' (cleanup)
-- Updated 'abriglass' (LBM performance)
-- Updated 'futil'
-- Updared 'unified_inventory' (removed unused buttons)
-- Updated 'technic_chests' (removed locked chest recipe)
-- Updated 'moreblocks' (removed unused category)
-- Updated 'ethereal'(cleanup [2000 lines])
-- Updated 'techage' (ingame documentation fixes)
+- Updated `mobs_monster` (cleanup)
+- Updated `mobs_animal` (cleanup)
+- Updated `abriglass` (LBM performance)
+- Updated `futil`
+- Updared `unified_inventory` (removed unused buttons)
+- Updated `technic_chests` (removed locked chest recipe)
+- Updated `moreblocks` (removed unused category)
+- Updated `ethereal`(cleanup [2000 lines])
+- Updated `techage` (ingame documentation fixes)
  
 Niklp — 02.10.2022 09:14
 - Removed not working stairs recipes
 
 Niklp — 03.10.2022 15:43
 - Fixed 28 of 31 not working crafting recipes
-- Refactored some things in 'archtec_xx' mods
-- Updated 'castle_mansonry' (LBM performance)
-- Updated 'colored_concrete' (translations)
-- Updated 'xdecor' (removed packed ice/new rune recipe)
-- Disabled a globalstep in the 'ts_furniture' mod (performance)
+- Refactored some things in `archtec_xx` mods
+- Updated `castle_mansonry` (LBM performance)
+- Updated `colored_concrete` (translations)
+- Updated `xdecor` (removed packed ice/new rune recipe)
+- Disabled a globalstep in the `ts_furniture` mod (performance)
  
 Niklp — 05.10.2022 07:43
 - Better xban notification handler
-- Updated 'cblocks' (code tidy)
-- Updated 'moreblocks' (circular saw fixes)
+- Updated `cblocks` (code tidy)
+- Updated `moreblocks` (circular saw fixes)
 
 Niklp — 07.10.2022 13:58
-- Grant the 'forceload' priv automatically when placing a drillbox
-- Improved '/playtime' command
-- Updated 'ethereal' (moretrees compat)
-- Updated 'farming' (faster cocoa generate code)
-- Updated 'smartshop' (fixes)
-- Updated 'mobs_redo' (tidy code)
+- Grant the `forceload` priv automatically when placing a drillbox
+- Improved `/playtime` command
+- Updated `ethereal` (moretrees compat)
+- Updated `farming` (faster cocoa generate code)
+- Updated `smartshop` (fixes)
+- Updated `mobs_redo` (tidy code)
  
 Niklp — 08.10.2022 16:44
 - Increased active block range to 4
 - Fixed some recipes
 - Added a join ratelimiter
-- Updated 'unified_inventory' (tidy code)
-- Updated 'xban2' (fix not working discord integration)
-- Updated 'mesecons' (hydroturbine recipe fix)
+- Updated `unified_inventory` (tidy code)
+- Updated `xban2` (fix not working discord integration)
+- Updated `mesecons` (hydroturbine recipe fix)
 
 Niklp — 09.10.2022 08:47
 - Fixed crafting recipe of palace glas
@@ -109,38 +109,38 @@ Niklp — 09.10.2022 08:47
 
 Niklp — 10.10.2022 16:37
 - Added custom /status message
-- Improved some functions in 'archtec' mod
-- Added delay param to '/sd' command
+- Improved some functions in `archtec` mod
+- Added delay param to `/sd` command
  
 Niklp — 11.10.2022 13:37
-- Added 'bushes:BushLeaves_xx' to 'group:leaves' group
-- Updated 'abriglass' (pattern recipes)
+- Added `bushes:BushLeaves_xx` to `group:leaves` group
+- Updated `abriglass` (pattern recipes)
  
 Niklp — 14.10.2022 17:48
-- Added 'mapserver' mod to see players on the server map
+- Added `mapserver` mod to see players on the server map
 - Added some help messages
 - Fixed crash when sending to long messages
-- Updated 'colored_concrete' (redo)
-- Updated 'drawers' (allow controller to store item when drawers are full)
-- Updated 'ethereal' (changed bush texture)
-- Updated 'farming' (changed melone texture)
-- Updated 'futil' (performance, mod storage api)
-- Updated 'item_drop' (handle old node defs)
-- Updated 'smartshop' (futil compat)
-- Updated 'mobs_npc' (screwdriver fix)
-- Updated 'node_entity_queue' (groups support)
-- Updated 'techage' (ethereal leaves support)
+- Updated `colored_concrete` (redo)
+- Updated `drawers` (allow controller to store item when drawers are full)
+- Updated `ethereal` (changed bush texture)
+- Updated `farming` (changed melone texture)
+- Updated `futil` (performance, mod storage api)
+- Updated `item_drop` (handle old node defs)
+- Updated `smartshop` (futil compat)
+- Updated `mobs_npc` (screwdriver fix)
+- Updated `node_entity_queue` (groups support)
+- Updated `techage` (ethereal leaves support)
 
 Niklp — 15.10.2022 14:36
 - Added shortcommands for areas
 - Block to put invisible armor into armor stands
-- Updated 'colored_concrete' (fix broken translations)
-- Updated 'futil' (fixes; new functions)
-- Updated 'letters' (code cleanup)
+- Updated `colored_concrete` (fix broken translations)
+- Updated `futil` (fixes; new functions)
+- Updated `letters` (code cleanup)
 
 Niklp — 15.10.2022 18:27
 - Fixed broken invisible armor
-- Updated 'drawers' (reverted last update; idk why)
+- Updated `drawers` (reverted last update; idk why)
 
 Niklp — 16.10.2022 12:40
 - Added a performance patch to darkage mapgen
@@ -148,52 +148,52 @@ Niklp — 16.10.2022 12:40
 Niklp — 22.10.2022 10:08
 - Implemented a function to cache privs
 - Implemented a function to get online_players faster
-- Improved 'item_drop' mod
-- Updated 'archtec_pvp' (fixed wrong message formatting)
-- Updated 'customskins' (cleanup; performance)
-- Updated '3d_armor_ui' (new model based player preview in armor tab)
-- Updated 'farming' (fixed drops and recipes)
-- Updated 'homedecor' (fixed wrong aligned door textures)
-- Updated 'mobs_redo' (improved smooth rotation)
-- Updated 'techage' (new isobutane recipe)
-- Removed 'player_monoids' (it was too buggy)
+- Improved `item_drop` mod
+- Updated `archtec_pvp` (fixed wrong message formatting)
+- Updated `customskins` (cleanup; performance)
+- Updated `3d_armor_ui` (new model based player preview in armor tab)
+- Updated `farming` (fixed drops and recipes)
+- Updated `homedecor` (fixed wrong aligned door textures)
+- Updated `mobs_redo` (improved smooth rotation)
+- Updated `techage` (new isobutane recipe)
+- Removed `player_monoids` (it was too buggy)
 
 Niklp — 22.10.2022 16:58
 - Fixed not working VPN blocker
 
 Niklp — 29.10.2022 17:18
 - Added a new hunger system based on stamina
-- Removed 'hbhunger and 'hudbars'
-- Added '/watch' command (staff only)
-- Added '/joined' (get first join date of a player)
-- Improved '/privs_cache' command
-- Added 'archtec_physic' mod
+- Removed `hbhunger and `hudbars`
+- Added `/watch` command (staff only)
+- Added `/joined` (get first join date of a player)
+- Improved `/privs_cache` command
+- Added `archtec_physic` mod
 - Added new help messages
-- Full redo of 'archtec_vpn_blocker'
-- Updated 'action_queues' (bump needed futil version)
-- Updated 'customskins' (fixed preview in /skin)
-- Updated 'bees' (abm descriptions)
-- Updated 'bonemeal' (support for new farming redo plants)
-- Updated 'chatplus' (code cleanup)
-- Updated 'display_modpack' (on_blast callback)
-- Updated 'ethereal' (fixed plant generation)
-- Updated 'farming' (added ginger)
-- Updated 'futil' (many things)
-- Updated 'mobs_animal' (ABM speedup)
-- Updated 'mobs_monster' (ABM speedup; new textures)
-- Updated 'mobs_npc' (added dialogs)
-- Updated 'mobs_redo' (fixed peaceful mode)
-- Updated 'moretrees' (no biome lib depend, crafting improvements)
-- Updated 'node_entity_queue' (bump needed futil version)
-- Updated 'signs_lib' (on_blast callback; custom edit priv)
-- Updated 'unified_inventory' (hide disabled buttons)
-- Updated 'minetest_game' (disabled not needed LBMs)
+- Full redo of `archtec_vpn_blocker`
+- Updated `action_queues` (bump needed futil version)
+- Updated `customskins` (fixed preview in /skin)
+- Updated `bees` (abm descriptions)
+- Updated `bonemeal` (support for new farming redo plants)
+- Updated `chatplus` (code cleanup)
+- Updated `display_modpack` (on_blast callback)
+- Updated `ethereal` (fixed plant generation)
+- Updated `farming` (added ginger)
+- Updated `futil` (many things)
+- Updated `mobs_animal` (ABM speedup)
+- Updated `mobs_monster` (ABM speedup; new textures)
+- Updated `mobs_npc` (added dialogs)
+- Updated `mobs_redo` (fixed peaceful mode)
+- Updated `moretrees` (no biome lib depend, crafting improvements)
+- Updated `node_entity_queue` (bump needed futil version)
+- Updated `signs_lib` (on_blast callback; custom edit priv)
+- Updated `unified_inventory` (hide disabled buttons)
+- Updated `minetest_game` (disabled not needed LBMs)
  
 Niklp — 29.10.2022 20:05
-- Fixed a crash in 'archtec_stamina'
+- Fixed a crash in `archtec_stamina`
 
 Niklp — 30.10.2022 11:35
-- Fixed not updating hudbar in 'archtec_stamina'
+- Fixed not updating hudbar in `archtec_stamina`
 - Improved /watch and /unwatch
 
 Niklp — 30.10.2022 20:35
@@ -206,171 +206,171 @@ Niklp — 01.11.2022 21:14
 - Improved and refactored the Archtec bot
 
 Niklp — 06.11.2022 17:02
-- Added '/geoip' command (staff only)
+- Added `/geoip` command (staff only)
 - Improved placing of dry ice
 - Ratelimited joins to 1 every 3 seconds
-- Changed 'biome_lib' elevation range to 0-48
-- Updated 'basic_materials' (stripped materials)
-- Updated 'bonemeal' (helper functions)
-- Updated 'castle_masonry (remove intllib support)
-- Updated 'colored_concrete' (fixed translations; maintenance)
-- Updated 'digicolor' (mod.conf)
-- Updated 'emote' (eye offset)
-- Updated 'ethereal' (crystal shovel improvements)
-- Updated 'facade' (compressed media files)
-- Updated 'farming' (esperanto translations)
-- Updated 'futil' (mod.conf)
-- Updated 'smartshop' (mof.conf)
-- Updated 'mobs_redo' (luacheck)
-- Updated 'node_entity_queue' (mod.conf)
-- Updated 'plantlife' (things without changes for the server)
-- Updated 'ropes' (recipe fix for wood ladder)
-- Updated 'techage' (many fixes)
-- Updated 'towercrane' (esperanto translations)
+- Changed `biome_lib` elevation range to 0-48
+- Updated `basic_materials` (stripped materials)
+- Updated `bonemeal` (helper functions)
+- Updated `castle_masonry (remove intllib support)
+- Updated `colored_concrete` (fixed translations; maintenance)
+- Updated `digicolor` (mod.conf)
+- Updated `emote` (eye offset)
+- Updated `ethereal` (crystal shovel improvements)
+- Updated `facade` (compressed media files)
+- Updated `farming` (esperanto translations)
+- Updated `futil` (mod.conf)
+- Updated `smartshop` (mof.conf)
+- Updated `mobs_redo` (luacheck)
+- Updated `node_entity_queue` (mod.conf)
+- Updated `plantlife` (things without changes for the server)
+- Updated `ropes` (recipe fix for wood ladder)
+- Updated `techage` (many fixes)
+- Updated `towercrane` (esperanto translations)
 
 Niklp — 13.11.2022 10:05
 - Untamed Mobs will not be removed once a map chunk is out of view
-- Updated 'itemframes' (logging)
-- Updated 'farming' (sugar cube)
-- Updated 'areas' (translation fixes)
-- Updated 'plantlife' (vines upside down fix)
-- Updated 'techage' (documentation)
-- Updated 'technic_cnc' (compressed obj files)
-- Updated 'archtec_stamina' (fixed healing, try no. 4)
-- Updated 'ethereal' (lilac, leaves fix)
-- Updated 'futil' (many things)
-- Updated 'smartshop' (higher res entity rendering)
+- Updated `itemframes` (logging)
+- Updated `farming` (sugar cube)
+- Updated `areas` (translation fixes)
+- Updated `plantlife` (vines upside down fix)
+- Updated `techage` (documentation)
+- Updated `technic_cnc` (compressed obj files)
+- Updated `archtec_stamina` (fixed healing, try no. 4)
+- Updated `ethereal` (lilac, leaves fix)
+- Updated `futil` (many things)
+- Updated `smartshop` (higher res entity rendering)
 
 LonnySophie — 16.11.2022 21:28
 - Fixed healing
-- Disabled 'darkage' lua mapgen (performance)
+- Disabled `darkage` lua mapgen (performance)
 
 Niklp — 17.11.2022 17:29
 - Updated LuaJIT to latest master
 - Added some improvements for the healing system (thx Juri)
 
 Niklp — 19.11.2022 15:26
-- Remade 'bridger' mod
-- Updated 'abriglass' (crafting fixes)
-- Removed some 'abriglass' nodes
-- Updated 'bonemeal' (support for new plants)
-- Updated 'darkage' (ix glas recipes)
-- Updated 'farming' (increase barley steps to 8)
-- Updated 'homedecor' (fake fire restarts automatically)
-- Updated 'mobs_animal' (fix sheeps losing their protection)
-- Updated 'mobs_redo' (meta for extra drops)
-- Updated 'quartz' (ore is not longer in group:stone)
-- Updated 'signs_bot' (fix bot movement)
-- Updated 'techage' (detect mesecons correctly)
-- Updated 'tubelib2' (fix translations)
-- Updated 'xdecor' (move changes into archtec mod)
+- Remade `bridger` mod
+- Updated `abriglass` (crafting fixes)
+- Removed some `abriglass` nodes
+- Updated `bonemeal` (support for new plants)
+- Updated `darkage` (ix glas recipes)
+- Updated `farming` (increase barley steps to 8)
+- Updated `homedecor` (fake fire restarts automatically)
+- Updated `mobs_animal` (fix sheeps losing their protection)
+- Updated `mobs_redo` (meta for extra drops)
+- Updated `quartz` (ore is not longer in group:stone)
+- Updated `signs_bot` (fix bot movement)
+- Updated `techage` (detect mesecons correctly)
+- Updated `tubelib2` (fix translations)
+- Updated `xdecor` (move changes into archtec mod)
 
 Niklp — 27.11.2022 10:24
 - Added some debug tools for performance
-- Updated 'moreores' (fix hoe recipes)
-- Updated 'drawers' (techage support)
-- Updated 'wine' (new textures)
-- Updated 'farming' (new textures)
-- Updated 'techage' (updated ingame manuals)
-- Updated 'mobs_redo' (new textures, meat block)
-- Updated 'hopper' (license)
-- Updated 'signs_bot' (crash fixes)
-- Updated 'bakedclay' (license)
-- Updated 'tubelib2' (chinese translation)
-- Updated 'signs_lib' (fix wrong usage of default global)
+- Updated `moreores` (fix hoe recipes)
+- Updated `drawers` (techage support)
+- Updated `wine` (new textures)
+- Updated `farming` (new textures)
+- Updated `techage` (updated ingame manuals)
+- Updated `mobs_redo` (new textures, meat block)
+- Updated `hopper` (license)
+- Updated `signs_bot` (crash fixes)
+- Updated `bakedclay` (license)
+- Updated `tubelib2` (chinese translation)
+- Updated `signs_lib` (fix wrong usage of default global)
 
 Niklp — 02.12.2022 21:40
 - Updated LuaJIT
-- Prematurely pulled '/help' privs fix
+- Prematurely pulled `/help` privs fix
 
 LonnySophie — 03.12.2022 17:42
 - Added skinned hands in 1st person
-- Added some more lag values to '/status'
-- Enabled '3d_armor' fire mode
-- Reworked 'notifyTeam' function
-- Updated 'action_queues' (fmod)
-- Updated 'bonemeal' (fix usage)
-- Updated 'chatplus' (localize functions)
-- Updated 'digicolor' (fmod)
-- Updated 'ethereal' (new textures)
-- Updated 'futil' (too much for this changelog)
-- Updated 'mesecons' (translation support)
-- Updated 'smartshop' (fmod, currency)
-- Updated 'mobs_redo' (yaw climbing fix)
-- Updated 'node_entity_queue' (fmod)
-- Updated 'ts_furniture' (ignore 'tree' group)
+- Added some more lag values to `/status`
+- Enabled `3d_armor` fire mode
+- Reworked `notifyTeam` function
+- Updated `action_queues` (fmod)
+- Updated `bonemeal` (fix usage)
+- Updated `chatplus` (localize functions)
+- Updated `digicolor` (fmod)
+- Updated `ethereal` (new textures)
+- Updated `futil` (too much for this changelog)
+- Updated `mesecons` (translation support)
+- Updated `smartshop` (fmod, currency)
+- Updated `mobs_redo` (yaw climbing fix)
+- Updated `node_entity_queue` (fmod)
+- Updated `ts_furniture` (ignore `tree` group)
 
 Niklp — 03.12.2022 17:58
-- Enabled 'cherrytree' mod
+- Enabled `cherrytree` mod
 
 Niklp — 04.12.2022 10:27
-- Added 'presents' (thx Juri, good job)
-- Added 'fmod' (new depend of smartshop and digicolor)
+- Added `presents` (thx Juri, good job)
+- Added `fmod` (new depend of smartshop and digicolor)
 
 Niklp — 08.12.2022 19:11
-- Added 'christmastree'
-- Added 'mymillwork'
-- Added 'castle_storage'
-- Added stairs for 'moreblocks:empty_shelf'
-- Added '3d_armor' upstream changes
+- Added `christmastree`
+- Added `mymillwork`
+- Added `castle_storage`
+- Added stairs for `moreblocks:empty_shelf`
+- Added `3d_armor` upstream changes
 
 Niklp — 09.12.2022 13:55
-- Enabled 'bushed_classic, 'poisonivy'
+- Enabled `bushed_classic, `poisonivy`
 - Re-added dates and digital clocks
-- Updated 'christmastree' (fix crafting recipe)
+- Updated `christmastree` (fix crafting recipe)
 
 Niklp — 09.12.2022 19:08
-- Added 'cottages' mod
-- Changed some 'telemosaic' settings
+- Added `cottages` mod
+- Changed some `telemosaic` settings
 
 Niklp — 13.12.2022 11:18
-- Added '/request_lava' and '/request_areas_high_limit' chatcommands
+- Added `/request_lava` and `/request_areas_high_limit` chatcommands
 - Added some new help messages
-- Added a special 'mymillwork' node (base_)
+- Added a special `mymillwork` node (base_)
 - Disabled bed spawn at death
 - Disabled torch damage
-- Updated 'techage' (many fixes)
-- Updated 'mesecons' (unittests)
-- Updated 'xban2' (fix ingame chat message)
-- Updated 'signs_lib' (logging)
-- Updated 'tubelib2' (tube placement)
-- Updated 'chatplus' (logging)
-- Updated 'mobs_npc' (new textures)
-- Updated 'unified_inventory' (farming as opt-depend)
+- Updated `techage` (many fixes)
+- Updated `mesecons` (unittests)
+- Updated `xban2` (fix ingame chat message)
+- Updated `signs_lib` (logging)
+- Updated `tubelib2` (tube placement)
+- Updated `chatplus` (logging)
+- Updated `mobs_npc` (new textures)
+- Updated `unified_inventory` (farming as opt-depend)
 
 Niklp — 21.12.2022 11:47
-- Added '/spawn_old' and '/s_o'
-- Added '/vote_day' and '/vote_night'
+- Added `/spawn_old` and `/s_o`
+- Added `/vote_day` and `/vote_night`
 - Refactored the voting api
 - Improved returns of many chatcommands
 - Block self vote-kicks
 - Fixed not working TA growlight
-- Removed 'mesecons_wireless' and 'claycrafter'
-- Updated 'mobs_redo' (fix userdata crash)
-- Updated 'mesecons' (FPGA metadata fix)
-- Updated 'anvil' (portuguese Brazilian translation)
-- Updated 'smartshop' (currency support)
-- Updated 'itemframes' (mod loaded msg)
-- Updated 'farming' (new textures)
-- Updated 'bakedclay' (better cnc register)
-- Updated 'bonemeal' (small poplar sapling)
-- Updated 'mob_horse' (loaded msg)
-- Updated 'digilines' (fix Z-fighting LCD text)
+- Removed `mesecons_wireless` and `claycrafter`
+- Updated `mobs_redo` (fix userdata crash)
+- Updated `mesecons` (FPGA metadata fix)
+- Updated `anvil` (portuguese Brazilian translation)
+- Updated `smartshop` (currency support)
+- Updated `itemframes` (mod loaded msg)
+- Updated `farming` (new textures)
+- Updated `bakedclay` (better cnc register)
+- Updated `bonemeal` (small poplar sapling)
+- Updated `mob_horse` (loaded msg)
+- Updated `digilines` (fix Z-fighting LCD text)
 
 Niklp — 22.12.2022 12:22
-- Vote automatically 'yes' if you start a vote
-- Updated 'mobs_animal' (fix evil bunny)
-- Updated 'ethereal' (new fish textures)
-- Updated 'dummies' (spawn other players)
+- Vote automatically `yes` if you start a vote
+- Updated `mobs_animal` (fix evil bunny)
+- Updated `ethereal` (new fish textures)
+- Updated `dummies` (spawn other players)
 
 Niklp — 22.12.2022 15:10
-- Added 'choppy' mod
-- Updated 'mobs_redo' (userdata crash fix no.2)
-- Removed unused '/memory' command
+- Added `choppy` mod
+- Updated `mobs_redo` (userdata crash fix no.2)
+- Removed unused `/memory` command
 
 Niklp — 24.12.22 10:09
 - Added choppy support to more axes
 - Golden apple fills hunger now completely
-- Updated '3d_armor' (Qol)
-- Updated 'ethereal' (new textures)
-- Updated 'mesecons' (removed log message at server startup)
+- Updated `3d_armor` (Qol)
+- Updated `ethereal` (new textures)
+- Updated `mesecons` (removed log message at server startup)
