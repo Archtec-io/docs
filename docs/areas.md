@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Rules for new mods
+title: Areas
 nav_order: 7
 last_modified_date: "Tue , 03 Jan 2023 15:30:00 GMT"
 ---
